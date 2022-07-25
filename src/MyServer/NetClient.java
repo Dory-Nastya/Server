@@ -1,4 +1,4 @@
-package myServer;
+package MyServer;
 
 import java.awt.Color;
 import java.awt.Insets;
